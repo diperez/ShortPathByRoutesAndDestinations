@@ -1,0 +1,5313 @@
+/*Begin*/
+Ubicacion p#;
+	p#.nombre = "ACAHUALINCA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 159",
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ADUANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "AEROPUERTO INTERNACIONAL AGUSTO C. SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "AGUADORA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 112",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 123",
+		/*Insertar Ruta*/
+		"RUTA 175" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ALCALDIA DE MANAGUA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107",
+		/*Insertar Ruta*/
+		"RUTA 158",
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ALKE MONS LEZCANO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ALKE SANTA ANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ALTA GRACIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ALTAGRACIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "AMERICAS TRES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ANTIGUA EMBAJADA AMERICANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ANTIGUA EMBAJADA USA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 113" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ANTIGUA PEPSI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ANTIGUO CINE CABRERA AHORA PARE DE SUFRIR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 175" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ANTIGUO CINE CABRERA O PARE DE SUFRIR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ANTIGUO CINE GONZALEZ MONUMENTO AL GUERRILLERO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 123" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ANTIGUO CINE GONZALEZ O MONUMENTO AL GUERRILLERO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 164" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ANTIGUO CINE SALINAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108",
+		/*Insertar Ruta*/
+		"RUTA 109" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ASAMBLEA NACIONAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125",
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BANCO POPULAR MONSEÑOR LEZCANO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO ALTAGRACIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO ANDRES CASTRO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO BOER";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 164",
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO CAMILO ORTEGA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO COSTA RICA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO DOMITILA LUGO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO DUCUALI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO EDGAR MUNGUIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO EL RECREO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO EL RIGUERO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO EL RODEO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO HUGO CHAVEZ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO JORGE DIMITROV";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO LA FUENTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO LA PRIMAVERA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO LAS TORRES (C. NORTE)";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 165" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO LOMA LINDA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO MARIA AUXILIADORA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO MILAGRO DE DIOS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO NACIONES UNIDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 165" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO REPARTO SHICK";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO SALOMON MORENO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108",
+		/*Insertar Ruta*/
+		"RUTA 109" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO SAN JOSE ORIENTAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO SAN LUIS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 154" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO SANTA ANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 109" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO SANTA ROSA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BARRIO SELIM SHIBLE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BATAHOLA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BATAHOLA NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 120" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BELLO HORIZONTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "BORGOÑA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "C. NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 112" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CALLE 27 MAYO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 167" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CALLE COLON";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 113",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CALLE PRINCIPAL ALTAMIRA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CALLE PRINCIPAL DE ALTAMIRA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CALZADOS SANDAK";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CAMILO ORTEGA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CAMPO BRUCE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CANAL DOS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 195",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CANCILLERIA ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CARRETERA MASAYA COLEGIO TERESIANO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CARRETERA SUR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CASA DE LAS MANGUERAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CASA DEL OBRERO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 113",
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CASA PELLAS ACAHUALINCA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CATEDRAL MANAGUA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CATORCE DE SEPTIEMBRE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CATORCE SEPTIEMBRE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CEMENTERIO OCCIDENTAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 167",
+		/*Insertar Ruta*/
+		"RUTA 175" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CEMENTERIO ORIENTAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CEMENTERIO PERIFERICO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CENTRO COMERCIAL MANAGUA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 117" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CENTRO JUVENIL DON BOSCO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 159",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CINE BLANCO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CIUDAD JARDIN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 108",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 159",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CIUDAD JARDIN CALLE BARBERIA TREMINIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 113" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CLINICA DON BOSCO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CLUB TERRAZA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO ANUNCIACION";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO BENJAMIN ZELEDON BARRIO EL RECREO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO CRISTO REY";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 164",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO DIVINO PASTOR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO GASPAR GARCIA LAVIANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO LOYOLA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133",
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO MANUEL OLIVARES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 109",
+		/*Insertar Ruta*/
+		"RUTA 119",
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO PRIMERO MAYO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO SIMON BOLIVAR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 195",
+		/*Insertar Ruta*/
+		"RUTA LOS VANEGAS" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLEGIO TERESIANO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA LOS VANEGAS" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA CATORCE SEPTIEMBRE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA DIEZ DE JUNIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA EL PERIODISTA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 120" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA MAXIMO JEREZ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA MIGUEL BONILLA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA NICARAO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 119",
+		/*Insertar Ruta*/
+		"RUTA 123",
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA PEDRO JOAQUIN CHAMORRO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108",
+		/*Insertar Ruta*/
+		"RUTA 165" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA RAFAELA HERRERA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA TENDERI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA VILLA AUSTRIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COLONIA VILLA VENEZUELA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CONTRALORIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 112",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 125",
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COOPERATIVA PARRALES VALLEJOS FRENTE HOTEL ESTRELLA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 116" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COSTADO ESTE EDIFICIO PETRONIC";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 164" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COSTADO ESTE ESTADIO NACIONAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 164" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "COSTADO OESTE HOSPITAL BAUTISTA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CRUCE EL RECREO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CRUCE LAS AMERICAS TRES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CRUCE VILLA PROGRESO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "CRUZ LORENA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 105" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "DDF CINE GONZALEZ MONUMENTO AL GUERRILLERO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "DEL ARBOLITO DOS CUADRAS AL LAGO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "DONDE FUE CINE CABRERA HOY PARE DE SUFRIR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "DONDE FUE LA PEPSI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 123",
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "DUYA MAGICA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 164",
+		/*Insertar Ruta*/
+		"RUTA 165" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EDIFICIO ARMANDO GUIDO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 108",
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EDIFICIO NACIONES UNIDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL ARBOLITO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 123",
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL CALVARIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL CEIBO SAN JUDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL CHILAMATE SAN JUDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL CIEBO SAN JUDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL DORADO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL MANANTIAL SAN JUDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL MERCADITO SAN JUDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL MERCADO CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133",
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL NANCITE SAN JUDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL NOVILLO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL NOVILLO MERCADO ORIENTAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125",
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL NUEVO DIARIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EL ZUMEN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107",
+		/*Insertar Ruta*/
+		"RUTA 112",
+		/*Insertar Ruta*/
+		"RUTA 120" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EMBAJADA COSTA RICA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EMBAJADA USA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EMPALME CUESTA EL PLOMO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133",
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "EMPLAME CUESTA EL PLOMO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ENABAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 112",
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ENEL CENTRAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 119",
+		/*Insertar Ruta*/
+		"RUTA 195",
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ENEL RUBENIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ENITEL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ENTRADA A LAS COLINAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA LOS VANEGAS" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ENTRADA HOSPITAL LENIN FONSECA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ENTRADA LENIN FONSECA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ENTRADA REFINERIA ESSO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTACION CINCO DE POLICIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTACION III POLICIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTACION POLICIA AJAX DELGADO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTACION POLICIA AJAX DELGADO C. NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 154" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTACION V LA POLICIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTADIO NACIONAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTADIO NACIONAL BEIS BALL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 167",
+		/*Insertar Ruta*/
+		"RUTA 172",
+		/*Insertar Ruta*/
+		"RUTA 175",
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTADIO NACIONAL DE BEIS BALL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTATUA MONS. LEZCANO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 175" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ESTATUA MONTOYA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 107",
+		/*Insertar Ruta*/
+		"RUTA 113",
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "FARMACIA BORGEN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "FARMACIA KAREN LAS PALMAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "FARMACIA SAN BENITO CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133",
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "FARMACIA VILLA FLOR SUR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "FERRETERIA JENNY";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 123" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "FERRETERIA TOBIE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "GANCHO CAMINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 165",
+		/*Insertar Ruta*/
+		"RUTA 168",
+		/*Insertar Ruta*/
+		"RUTA 172",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "GANCHO DE CAMINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 107",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 158",
+		/*Insertar Ruta*/
+		"RUTA 164",
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "GIMNACIO ALEXIS ARGUELLO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOSPITAL ALEMAN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOSPITAL BERTHA CALDERON";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOSPITAL CRUZ AZUL MANAGUA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOSPITAL LENIN FONSECA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOSPITAL LENNIN FONSECA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOSPITAL MANOLO MORALES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 119",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOSPITAL SALUD INTEGRAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOSPITAL VELEZ PAIZ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOTEL CAMINO REAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOTEL ESTRELLA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 123" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HOTEL LAS COLINAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 165" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "HUELLAS DE ACAHUALINCA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "IGLESIA CATOLICA BELLO AMANECER";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "IGLESIA EL CARMEN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "IGLESIA PIO X BELLO HORIZONTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "IGLESIA SANTA ANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 123",
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "INSTITUTO RAMIREZ GOLLENA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "INSTITUTO RAMIREZ GOYENA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "IVAN MONTENEGRO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "JARDINES DE VERA CRUZ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "JUZGADOS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA ANUNCIATURA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA CEIBITA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA CONTRALORIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA LOTERIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 117" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA MORAZAN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA NICARAO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA PLAZA CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA PRENSA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA RACACHACA ALTAGRACIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA ROCARGO KM 8 CARRETERA NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA SIEMENS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA SUBASTA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA TENDERI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA TIENDONA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LA VUELTA DE LA UNO CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133",
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LARREYNAGA FERRETERIA TOBIE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 154" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LAS AMERICAS DOS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 170" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LAS AMERICAS TRES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LAS BRISAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 109" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LAS BRISAS ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LAS JAGUITAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LAS MERCEDES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LAS PIEDRECITAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 113",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 125",
+		/*Insertar Ruta*/
+		"RUTA 172",
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LIBRERÍA CASA DE LA BIBLIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LINDA VISTA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 115",
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LOMA DE TISCAPA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LOMAS DE GUADALUPE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LOMAS DE GUADALUPE O SEMAFAROS DEL SEMINARIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LOS BRASILES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LOS CHILAMATES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 172",
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LOS LAURELES SUR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "LOZELSA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 110" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MALECON";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 109",
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MARIA AUXILIADORA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MAYOREO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MEDICINA LEGAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 167" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO  MAYOREO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO EL MAYOREO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO ISRAEL LEWITE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO ISRAEL LEWITES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 125",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 158",
+		/*Insertar Ruta*/
+		"RUTA 175",
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO IVAN MONTENEGRO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 168",
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO MAYOREO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 120" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO ORIENTAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 108",
+		/*Insertar Ruta*/
+		"RUTA 109",
+		/*Insertar Ruta*/
+		"RUTA 113",
+		/*Insertar Ruta*/
+		"RUTA 115",
+		/*Insertar Ruta*/
+		"RUTA 159",
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA LOS VANEGAS" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO ORIENTAL POR ENABAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MERCADO ROBERTO HUEMBES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 108",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 123",
+		/*Insertar Ruta*/
+		"RUTA 159",
+		/*Insertar Ruta*/
+		"RUTA 164",
+		/*Insertar Ruta*/
+		"RUTA 165",
+		/*Insertar Ruta*/
+		"RUTA 195",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4",
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "METROCENTRO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 120",
+		/*Insertar Ruta*/
+		"RUTA 195",
+		/*Insertar Ruta*/
+		"RUTA LOS VANEGAS" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MIGRACION";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MIGUEL GUTIERREZ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 119",
+		/*Insertar Ruta*/
+		"RUTA 120",
+		/*Insertar Ruta*/
+		"RUTA 154" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MINISTERIO DE DEFENSA ANTIGUA MANSION LUIS SOMOZA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MINISTERIO DEL TRABAJO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 123",
+		/*Insertar Ruta*/
+		"RUTA 133",
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MINISTERIO GOBERNACION";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107",
+		/*Insertar Ruta*/
+		"RUTA 109",
+		/*Insertar Ruta*/
+		"RUTA 113",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MINISTERIO TRABAJO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 112" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MONS LEZCANO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MONS. LEZCANO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "MONTOYA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 154" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "NICARAO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "NIGHT CLUB VEINTISIETE DE MAYO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "NUEVE DE JUNIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "NUEVO DIARIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 120" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "OPTICA MATAMOROS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "OPTICA NICARAGUENSE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PAJARITO AZUL KM 10 CARRETERA NUEVA LEON";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PALI NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PARMALAT";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PARQUE LA PAZ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 164" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PARQUE MONS. LEZCANO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PARQUE SALVADORITA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 105" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PASEO TISCAPA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PASO A DESNIVEL C. NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PASO A DESNIVEL CARRETERA NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 108" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PASO DESNIVEL C. NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 123" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PERIFERICO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PIEDRECITAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PISTA ACAHUALINCA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 112" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PLAZA EL EDEN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PLAZA EL SOL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 120" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PLAZA ESPAÑA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 119",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PLAZA INTER";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 107",
+		/*Insertar Ruta*/
+		"RUTA 109",
+		/*Insertar Ruta*/
+		"RUTA 113",
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 167",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PLAZA JULIO MARTINEZ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PLAZA LOS CABROS CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PRICESMART";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PRIMERO MAYO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PUENTE COLONIA ALEMANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PUENTE EL EDEN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 120",
+		/*Insertar Ruta*/
+		"RUTA 159" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PUENTE LAREYNAGA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PUENTE LAREYNAGA FERRETERIA TOBIE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 105" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PUENTE LEON";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "PUENTE VILLA LIBERTAD";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "REGISTRO DE LA PROPIEDAD";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "REPARTO EL CARMEN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "RESIDENCIAL EL DORADO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 109" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "RESIDENCIAL SAN ANDRES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "RESTAURANTE MUNICH";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROBERTO HUEMBES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 109",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROCARGO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA BELLO HORIZONTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA CENTRO AMERICA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA LOS VANEGAS" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA CRISTO REY";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA EL GUEGUENSE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA EL PERIODISTA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 195",
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA LA VIRGEN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 123" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA METRO CENTRO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119",
+		/*Insertar Ruta*/
+		"RUTA 168",
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA PERIODISTA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA SANTO DOMINGO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ROTONDA UNIVERSITARIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "RUBENIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 118" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "RUCFA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 107",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 113" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "RUPAP";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SAN JOSE ORIENTAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 195" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SAN JUDAS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 158" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFARO DE LA TENDERI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFARO EL GUANACASTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 113" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFARO MONTOYA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFARO TENDERI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS ASAMBLEA NACIONAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 164",
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS CIUDAD JARDIN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 262" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS CLUB VEITISIETE DE MAYO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS DE LA TENDERI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS DEL COLONIAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS DEL MILITAR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS EL COLONIAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS EL DORADO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 105" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS EL GUANACASTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 107" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS EL NUEVO DIARIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 165" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS ENEL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS ENEL CENTRAL";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS GUANACASTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 125",
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS JONATHAN GONZALES O SEMAFAROS DEL MILITAR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS LA CEIBITA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS LA REYNAGA FERRETERIA TOBIE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS LA SEIBITA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS LINDA VISTA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101",
+		/*Insertar Ruta*/
+		"RUTA 112",
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS MEMORIAL SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 175" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS NIGHT CLUB VEINTISIETE DE MAYO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS RUBENIA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 123" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS SEMINARIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116",
+		/*Insertar Ruta*/
+		"RUTA 175" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS VILLA FONTANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 117" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMAFAROS VILLA PROGRESO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SEMINARIO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 120" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SHELL WASPAN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 170",
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SIEMENS";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 120" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SIETE SUR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 112",
+		/*Insertar Ruta*/
+		"RUTA 114",
+		/*Insertar Ruta*/
+		"RUTA 120",
+		/*Insertar Ruta*/
+		"RUTA 123",
+		/*Insertar Ruta*/
+		"RUTA 125",
+		/*Insertar Ruta*/
+		"RUTA 154",
+		/*Insertar Ruta*/
+		"RUTA 210",
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SUBASTA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 117" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SUPER COPY PERIFERICO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 175" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "SUPERMERCADO MILITAR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 101" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "TELCOR VILLA FONTANA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 117" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "TEXACO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "TEXACO GUANACASTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 116" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "TOPE SUR BELLO HORIZONTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "TOPE SUR ROTONDA BELLO HORIZONTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "TRANSNICA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 168"
+	}
+
+		vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+		p#.rutas = vp#;
+		Ubicaciones.push_back(p#);
+		/*End*/
+
+		/*Begin*/
+		Ubicacion p#;
+		p#.nombre = "UCA";
+		string p#rutas[] = {
+			/*Insertar Ruta*/
+			"RUTA 102",
+			/*Insertar Ruta*/
+			"RUTA 103",
+			/*Insertar Ruta*/
+			"RUTA 105",
+			/*Insertar Ruta*/
+			"RUTA 110",
+			/*Insertar Ruta*/
+			"RUTA 111",
+			/*Insertar Ruta*/
+			"RUTA 114",
+			/*Insertar Ruta*/
+			"RUTA 117",
+			/*Insertar Ruta*/
+			"RUTA 119",
+			/*Insertar Ruta*/
+			"RUTA 120",
+			/*Insertar Ruta*/
+			"RUTA 168",
+			/*Insertar Ruta*/
+			"RUTA 195",
+			/*Insertar Ruta*/
+			"RUTA 210"};
+
+
+		vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+		p#.rutas = vp#;
+		Ubicaciones.push_back(p#);
+		/*End*/
+
+		/*Begin*/
+		Ubicacion p#;
+		p#.nombre = "ULAM";
+		string p#rutas[] = {
+			/*Insertar Ruta*/
+			"RUTA 108"};
+
+		vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+		p#.rutas = vp#;
+		Ubicaciones.push_back(p#);
+		/*End*/
+
+		/*Begin*/
+		Ubicacion p#;
+		p#.nombre = "UNAN";
+		
+		string p#rutas[] = {
+			/*Insertar Ruta*/
+			"RUTA 111",
+			/*Insertar Ruta*/
+			"RUTA 117" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "UNAN MANAGUA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "UNICA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA LOS VANEGAS" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "UNICIT";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 117",
+		/*Insertar Ruta*/
+		"RUTA 168" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "UNIDAD DE PROPOSITO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 105" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "UPOLI";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 102",
+		/*Insertar Ruta*/
+		"RUTA 104",
+		/*Insertar Ruta*/
+		"RUTA 111",
+		/*Insertar Ruta*/
+		"RUTA 119",
+		/*Insertar Ruta*/
+		"RUTA 6" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "UPONIC";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 167" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "VALLE DORADO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 114" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "VIA FRATERNIDAD";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 119" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "VILLA FRATERNIDAD";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "VILLA LIBERTAD";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 103",
+		/*Insertar Ruta*/
+		"RUTA 116" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "VILLA MIGUEL GUTIERREZ";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "VILLA RAFAELA HERRERA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "VILLA RECONCILIACION";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 110" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "VILLA ROMA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 261-MR4" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "WASPAN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 117" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "WASPAN NORTE";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 104" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "WASPAN SUR";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 111" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ZONA 11 CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ZONA FRANCA CERCA TIPITAPA";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 266" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ZONA FRANCA ZARATOGA LOS BRASILES";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 172" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ZONA IV CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 133" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ZONA VI CIUDAD SANDINO";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 210" };
+
+	
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
+
+	/*Begin*/
+	Ubicacion p#;
+	p#.nombre = "ZUMEN";
+	string p#rutas[] = {
+		/*Insertar Ruta*/
+		"RUTA 105",
+		/*Insertar Ruta*/
+		"RUTA 106",
+		/*Insertar Ruta*/
+		"RUTA 110",
+		/*Insertar Ruta*/
+		"RUTA 118",
+		/*Insertar Ruta*/
+		"RUTA 158",
+		/*Insertar Ruta*/
+		"RUTA 210",
+		/*Insertar Ruta*/
+		"RUTA 261-MR4",
+		/*Insertar Ruta*/
+		"RUTA 6"};
+
+	vector<string> vp#(std::begin(p#rutas), std::end(p#rutas));
+	p#.rutas = vp#;
+	Ubicaciones.push_back(p#);
+	/*End*/
